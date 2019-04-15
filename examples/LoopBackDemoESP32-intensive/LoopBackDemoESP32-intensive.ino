@@ -31,8 +31,8 @@ static const byte MCP2515_SCK  = 26 ; // SCK input of MCP2517
 static const byte MCP2515_MOSI = 19 ; // SDI input of MCP2517
 static const byte MCP2515_MISO = 18 ; // SDO output of MCP2517
 
-static const byte MCP2515_CS  = 17 ; // CS input of MCP2515 (adapt to your design)
-static const byte MCP2515_INT =  0 ; // INT output of MCP2515 (adapt to your design)
+static const byte MCP2515_CS  = 17 ; // CS input of MCP2517 (adapt to your design)
+static const byte MCP2515_INT =  0 ; // INT output of MCP2517 (adapt to your design)
 
 //——————————————————————————————————————————————————————————————————————————————
 //  MCP2515 Driver object
